@@ -334,5 +334,4 @@
 			document.f.submit();
 			$("#LandingAdd").modal("hide");
 		}
-
-	</script>
+</script>
